@@ -1,0 +1,2 @@
+# Mailchimp-template
+Email template
